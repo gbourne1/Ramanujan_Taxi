@@ -116,7 +116,7 @@ object RamanujanTaxi {
             mapSums += (ab3 -> ((a3, b3) :: mapSums.getOrElse(ab3, List())))
             if (mapSums(ab3).length > 1)
               overOne += ab3
-          }
+          } 
         }
     }
     overOne foreach {x => println(x + " = " + mapSums(x))}
