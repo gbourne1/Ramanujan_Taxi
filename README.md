@@ -1,4 +1,4 @@
-# Ramanujan Taxi
+# Ramanujan Taxi in Scala with Three Optimizations
 Implementation of Ramanujan's Taxi by Srinivasa Ramanujan in three different optimizations. 
 
 G.H. Hardy: "I remember once going to see him when he was ill at Putney. I had ridden in taxi cab number 1729 and
