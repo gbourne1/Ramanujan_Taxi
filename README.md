@@ -1,5 +1,5 @@
 # Ramanujan Taxi in Scala with Three Optimizations
-Implementation of Ramanujan's Taxi by Srinivasa Ramanujan in three different optimizations. 
+Implementation of Ramanujan's Taxi by Srinivasa Ramanujan in three different optimizations. Find details at: https://medium.freecodecamp.com/the-man-who-knew-infinity-coding-ramanujans-taxi-52e4c3696e53#.lyvjdqpq2
 
 G.H. Hardy: "I remember once going to see him when he was ill at Putney. I had ridden in taxi cab number 1729 and
 remarked that the number seemed to me rather a dull one, and that I hoped it was not an unfavorable omen.
